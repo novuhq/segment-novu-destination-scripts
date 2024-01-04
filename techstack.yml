@@ -1,7 +1,8 @@
 repo_name: novuhq/segment-novu-destination-scripts
-report_id: 102b30fa781db0f8299efed786fb39b0
+report_id: e506fac0759d96edddf45a25939831bb
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T09:33:09+00:00'
+timestamp: '2024-01-04T14:58:24+00:00'
 requested_by: unicodeveloper
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/novuhq/segment-novu-destination-scripts
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/novuhq/segment-novu-destination-scripts
   detection_source: Repo Metadata
